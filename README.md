@@ -1,6 +1,15 @@
 # Sistem Temu Kembali Informasi
 Tugas STKI — Extended Boolean Model
 
+## Informasi Mahasiswa
+```text
+| Informasi | Keterangan |
+|-----------|------------|
+| Nama | I Komang Cahya Kertha Yasa |
+| NIM | 2405551034 |
+
+---
+
 ## Cara Menjalankan
 1. Install library yang dibutuhkan:
    pip install -r requirements.txt
