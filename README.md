@@ -2,11 +2,10 @@
 Tugas STKI — Extended Boolean Model
 
 ## Informasi Mahasiswa
-```text
 | Informasi | Keterangan |
 |-----------|------------|
-| Nama | I Komang Cahya Kertha Yasa |
-| NIM | 2405551034 |
+| **Nama** | I Komang Cahya Kertha Yasa |
+| **NIM** | 2405551034 |
 
 ---
 
